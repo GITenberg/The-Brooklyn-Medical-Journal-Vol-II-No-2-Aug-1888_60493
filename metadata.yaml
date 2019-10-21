@@ -1,5 +1,8 @@
 _repo: The-Brooklyn-Medical-Journal-Vol-II-No-2-Aug-1888_60493
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60493-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -37,6 +40,8 @@ creator:
     gutenberg_agent_id: '50978'
     url: http://www.gutenberg.org/2009/agents/50978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60493#The-Brooklyn-Medical-Journal-Vol-II-No-2-Aug-1888
 gutenberg_issued: '2019-10-13'
 gutenberg_type: Text
 identifiers:
